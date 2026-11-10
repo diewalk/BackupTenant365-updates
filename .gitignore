@@ -1,0 +1,4 @@
+# Aucun secret dans ce dépôt public
+*.pem
+*.key
+*.lic
